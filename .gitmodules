@@ -1,3 +1,6 @@
 [submodule "solana_homework"]
 	path = solana_homework
 	url = https://github.com/emreozenses/solana_homework
+[submodule "solana_mytoken"]
+	path = solana_mytoken
+	url = https://github.com/emreozenses/solana_mytoken
